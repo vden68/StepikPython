@@ -24,3 +24,4 @@ for obj in objects: # доступная переменная objects
 
 print(ans)
 print(ans_l)
+print("master")
