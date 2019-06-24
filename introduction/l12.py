@@ -23,4 +23,4 @@ for obj in objects: # доступная переменная objects
         ans_l.append(obj)
 
 print(ans)
-print(ans_l)
+print("ans_l")
